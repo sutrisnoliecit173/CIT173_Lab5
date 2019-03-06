@@ -1,0 +1,3 @@
+
+echo "1" > /sys/class/leds/input1\:\:caplock/brightness
+echo "0" > /sys/class/leds/input1\:\:caplock/brightness
